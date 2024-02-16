@@ -1,5 +1,4 @@
 ---
-​---
 home: true
 heroText: 愿你保持初心和善良,笑里尽是温暖与坦荡。
 tagline: May you keep your original heart and kindness, and smile with warmth and magnanimity.
