@@ -35,5 +35,5 @@ features:
 4.修复 首页 底部跳转 域名备案的问题
 
 本人blog  www.2024fafa.com
-![页面一]("https://2024fafa.oss-cn-hangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20240216201128.png")
+![image]("https://2024fafa.oss-cn-hangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20240216201128.png")
 ---
