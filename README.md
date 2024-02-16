@@ -33,17 +33,4 @@ features:
 本人 blog www.2024fafa.com 还有很多实用工具哦！！！
 ![图片描述]("https://github.com/yangkun512023/my-blog/blob/main/image/1.png")
 
-![首页]("https://github.com/yangkun512023/my-blog/blob/main/image/1.png")
-![首页]("[/image/1.png](https://github.com/yangkun512023/my-blog/blob/main/image/1.png)https://github.com/yangkun512023/my-blog/blob/main/image/2.png")
-![首页]("[/image/1.png](https://github.com/yangkun512023/my-blog/blob/main/image/1.png)https://github.com/yangkun512023/my-blog/blob/main/image/3.png")
-![首页]("[/image/1.png](https://github.com/yangkun512023/my-blog/blob/main/image/1.png)https://github.com/yangkun512023/my-blog/blob/main/image/4.png")
-![首页]("[/image/1.png](https://github.com/yangkun512023/my-blog/blob/main/image/1.png)https://github.com/yangkun512023/my-blog/blob/main/image/5.png")
-![首页]("[/image/1.png](https://github.com/yangkun512023/my-blog/blob/main/image/1.png)https://github.com/yangkun512023/my-blog/blob/main/image/6.png")
-![首页]("[/image/1.png](https://github.com/yangkun512023/my-blog/blob/main/image/1.png)https://github.com/yangkun512023/my-blog/blob/main/image/7.png")
-![首页]("[/image/1.png](https://github.com/yangkun512023/my-blog/blob/main/image/1.png)https://github.com/yangkun512023/my-blog/blob/main/image/8.png")
-![首页]("[/image/1.png](https://github.com/yangkun512023/my-blog/blob/main/image/1.png)https://github.com/yangkun512023/my-blog/blob/main/image/9.png")
-![首页]("[/image/1.png](https://github.com/yangkun512023/my-blog/blob/main/image/1.png)https://github.com/yangkun512023/my-blog/blob/main/image/10.png")
-![首页]("[/image/1.png](https://github.com/yangkun512023/my-blog/blob/main/image/1.png)https://github.com/yangkun512023/my-blog/blob/main/image/11.png")
-![首页]("[/image/1.png](https://github.com/yangkun512023/my-blog/blob/main/image/1.png)https://github.com/yangkun512023/my-blog/blob/main/image/12.png")
-
 ---
